@@ -25,14 +25,6 @@
     }    
 }
 
-@media screen and (max-width: 768px) {
-    .intro__text {
-        max-width: 91.7%;
-        padding-top: 7.2%;
-        padding-left: 4.1%;
-    }    
-}
-
 @media screen and (max-width: 320px) {
     .intro__text {
         max-width: 90%;

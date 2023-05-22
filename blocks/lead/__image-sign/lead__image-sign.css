@@ -11,14 +11,14 @@
 
 @media screen and (max-width: 1024px) {
     .lead__image-sign {
-        padding-top: 0.08%;
+        padding-top: 0.78%;
         padding-left: 0;
     }    
 }
 
 @media screen and (max-width: 768px) {
     .lead__image-sign {
-        padding-top: 0.01%;
+        padding-top: 1%;
         padding-left: 3%;
     }    
 }
