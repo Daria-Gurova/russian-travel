@@ -1,0 +1,42 @@
+.intro__title {
+    margin: 0;
+    padding-top: 7.1%;
+    padding-left: 11.5%;
+    justify-content: flex-start;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro__title {
+        padding-top: 9%;
+        padding-left: 4.6%;
+    }    
+}
+
+@media screen and (max-width: 768px) {
+    .intro__title {
+        padding-top: 11.4%;
+        padding-left: 3.1%;
+    }    
+}
+
+@media screen and (max-width: 576px) {
+    .intro__title {
+        padding-top: 15%;
+        padding-left: 4%;
+        font-size: 42px;
+        line-height: 45px;
+    }    
+}
+
+@media screen and (max-width: 320px) {
+    .intro__title {
+        padding-top: 20%;
+        padding-left: 5%;
+        font-size: 32px;
+        line-height: 35px;
+    }    
+}
