@@ -18,14 +18,14 @@
 @media screen and (max-width: 768px) {
     .cover__title {
         max-width: 73%;
+        font-size: calc((100vw - 320px)/(768 - 320) * (72 - 32) + 32px);
+        line-height: calc((100vw - 320px)/(768 - 320) * (76 - 35) + 35px);
     }    
 }
 
 @media screen and (max-width: 576px) {
     .cover__title {
         max-width: 75%;
-        font-size: 52px;
-        line-height: 45px;
     }
 }
 
